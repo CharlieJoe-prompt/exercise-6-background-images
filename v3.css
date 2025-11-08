@@ -1,0 +1,32 @@
+html {
+    background-color: rgb(242, 242, 194);
+
+}
+
+.body {
+    background-color: rgb(255, 255, 255);
+
+}
+
+.header {
+     background-image: url(images/3-fruit.jpg);
+    height: 300px;
+    background-size: cover;
+    
+
+}
+
+.h1 {
+    text-align: center;
+    background-color: rgba(254, 245, 220, 50%);
+    border-top: 5px solid brown;
+    
+}
+
+.content {
+    padding: 10px;
+}
+
+aside {
+    padding-bottom: 10px;
+}
